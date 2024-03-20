@@ -1,15 +1,15 @@
 ## Hey there, I'm Pranshu!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Budding Developer and Competitive Programmer!
+## Budding MERN Stack Developer and Competitive Programmer!
 
-- 🌱 I’m currently learning  **Data Structures and Algorithms** and **Android Development**
+- 🌱 I’m currently learning  **Data Structures and Algorithms** and **Flutter**
 
 <!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranshu820/](https://github.com/pranshu820/)
 
 
-- 💬 Ask me about **C/C++, DSA, Competitive Programming, Android Development, Computer Vision**
+- 💬 Ask me about **C/C++, DSA, Competitive Programming, Android Development, Flutter, ReactJS**
 
 - 📫 How to reach me **pranshuu404@gmail.com**
 
